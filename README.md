@@ -1,4 +1,4 @@
-# What2Watch
+# AnimeRecommendation
 
 ## Setting Up the Environment
 
